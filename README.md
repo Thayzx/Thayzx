@@ -1,3 +1,9 @@
 <b>Somos uma dupla de estudantes do Colégio Estadual João de Faria Pioli cursando Pensamento Computacional.
 Temos 15 anos e moramos em Maringá,Paraná.
-Gostamos de gatinhos,de desenhar e de animes.</b> <h2>&#128517;</h2>
+Gostamos de gatinhos,de desenhar e de animes.</b> <h2>&#128517;</h2> <span style='font-size:100px;'>&#128150;</span>
+<p>I will display &#128150;</p>
+<p>I will display &#x1F496;</p>
+
+</body>
+</html>
+
